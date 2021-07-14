@@ -1,0 +1,7 @@
+Write a Java program to read and process a text file. 
+The name of the text file is entered by the user. 
+If the file does not exist, the program displays an error message and exits. 
+Otherwise, the file is opened and read, keeping a count of the number of lines and total number of characters. 
+These two values are displayed in a message box after the whole file has been read. 
+After use, the file is closed. 
+(Note that words are simply considered to be any text that is separated by spaces.)
